@@ -4,7 +4,6 @@ import ForgotPassword from "./pages/forgot_password/forgot_password.jsx"
 import React from "react";
 import Profile from "./pages/profile/profile.jsx"
 import {createBrowserRouter, RouterProvider} from "react-router-dom";
-import ErrorPage from "./pages/Error/error.jsx";
 import Playlist from "./pages/playlist/playlist.jsx";
 import Settings from "./pages/settings/settings.jsx";
 import Searching from "./pages/searching/searching.jsx";
